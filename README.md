@@ -1,2 +1,16 @@
-# generative-ai-learning
-My AI Engineering learning journey — notes, projects, experiments, and resources while mastering Generative AI, LLMs, RAG, AI Agents, MCP, LangChain, and LangGraph.
+# 🚀 Generative AI Learning Journey
+
+## About 
+
+Welcome!
+
+This repository documents my journey of becoming an AI Engineer.
+
+Here you'll find:
+
+• Learning Notes
+• Medium Blogs
+• AI Projects
+• Course Progress
+• Useful Resources
+• Experiments
